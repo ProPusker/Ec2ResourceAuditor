@@ -1,3 +1,8 @@
+# Author: Pusker 
+# Email: propuskerworks@gmail.com
+# Date: 2024-5-3
+# Version: 1.0.0
+
 <#
 .SYNOPSIS
     AWS Resource Auditor - Identifies unused EC2 resources across multiple accounts
